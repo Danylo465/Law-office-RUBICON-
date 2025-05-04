@@ -1,5 +1,5 @@
 body{
-    font-family: "Roboto Mono", monospace;
+    font-family: "Montserrat";
     color: #434455;
     background-color: #FFFFFF;
     font-weight: 400;
@@ -145,7 +145,7 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     text-decoration: none;
     font-weight: 300;
     font-size: 16px;
-    font-family: "Montserrat", monospace;
+    font-family: "Montserrat";
     cursor: pointer;
     border-radius: 20px;
     
